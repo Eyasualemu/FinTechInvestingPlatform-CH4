@@ -33,9 +33,19 @@ Using the starter code file and the provided CSV files, complete the following s
 ![image](https://user-images.githubusercontent.com/44585226/232368507-a05cce4b-dbb0-41fb-8ec0-2ab14ba526c6.png)
 
 9. Analyzing the risk return profit by using the sharp ratio and bar graph 
+
+BERKSHIRE HATHAWAY INC portfolios offers the best risk-return profile and PAULSON & CO.INC.offers the worst
+
 ![image](https://user-images.githubusercontent.com/44585226/232368609-c61d029d-e595-4ce6-a5ea-2444e04b515b.png)
 
 10. Verify the portfolio diversity by calculating the beta and comparing to S&P 500
+    
+Based on the calculation BERKSHIRE HATHAWAY INC seem more sensitive to movements in the S&P 500. If you see the beta mean for BERKSHIRE HATHAWAY INC it's way higher than TIGER GLOBAL MANAGEMENT LLC
+BERKSHIRE HATHAWAY INC beta mean = 0.2214986101354593
+
+TIGER GLOBAL MANAGEMENT LLC beta mean = 0.03093001487238774
+
+Since TIGER GLOBAL MANAGEMENT LLC is less sensitive to movements in the S&P 500 i recommend for inclusion in my firm’s suite of fund offerings
 
 ![image](https://user-images.githubusercontent.com/44585226/232368770-247a7945-cdab-4bc9-87d4-04347448e41a.png)
 ![image](https://user-images.githubusercontent.com/44585226/232368809-76180085-eebc-40a9-96b1-aa8dce198b13.png)
